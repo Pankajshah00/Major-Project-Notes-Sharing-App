@@ -33,7 +33,7 @@ export default function LandingPage() {
        }}
      >
        <h1 className="mb-4 animate__animated animate__fadeInUp animate__delay-1s">
-         Welcome to <span style={{ color: '#FFD700' }}>Coding Thinker</span>
+         Welcome to <span style={{ color: '#FFD700' }}>Note Sharing App</span>
        </h1>
        <p className="lead mb-5 animate__animated animate__fadeInUp animate__delay-2s">
          A Centralized Notes Sharing Platform for Students and Educators ✨
